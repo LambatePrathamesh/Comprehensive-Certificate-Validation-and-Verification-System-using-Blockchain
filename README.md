@@ -1,0 +1,2 @@
+# Comprehensive-Certificate-Validation-and-Verification-System-using-Blockchain
+This proposed system introduces a Comprehensive Certificate Validation and Verification System (CVVS) that aims to revolutionize the process. By leveraging the decentralized and immutable nature of blockchain, along with Ethereum’s smart contract capabilities, the system ensures the authenticity and integrity of educational certificates.
